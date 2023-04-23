@@ -1,0 +1,9 @@
+{
+    "compilerOptions": {
+      "outDir": "./build"
+    },
+    "include": [
+      "src/**/*"
+    ]
+  }
+  
